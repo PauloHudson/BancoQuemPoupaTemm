@@ -10,4 +10,4 @@ Hoje venho compartilhar o projeto mais legal em python que já fiz, ele possuí 
 *Extrato
 *Pagamento de contas
 
-Existem nuances entre as contas, por exemplo quando é cadastrado precisa ser colocado entre cliente COMUM e PLUS, o cliente comum paga uam taxa de 5% por movimentação bancária, o Plus paga apenas 3%!
+Existem nuances entre as contas, por exemplo quando é cadastrado precisa ser colocado entre cliente COMUM e PLUS, o cliente comum paga uma taxa de 5% por movimentação bancária, o Plus paga apenas 3%, além disso também existem outros detalhes detalhados no próprio código :D!
